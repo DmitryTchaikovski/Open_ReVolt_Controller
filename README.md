@@ -1,6 +1,6 @@
 # Open_ReVolt_Controller
 A clone of the Open ReVolt Cougar Rev2B Controller Hardware and Software to combine all needed information in one convenient place.
-The purpose of this repo is to combine everything needed to build a fully functional DC 144V 400A controller.
+The purpose of this repo is to combine everything needed to build a fully functional DC 144V 500A controller.
 
 ## Hardware
 
